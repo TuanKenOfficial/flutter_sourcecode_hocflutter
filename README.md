@@ -1,3 +1,5 @@
+#Soure code làm theo hướng dẫn trong slide hướng dẫn lập trình flutter, đang trong quá trình học nên sẽ có nhiều thiếu xót
+#Video demo sẽ update sao ạ
 # hocflutter
 
 A new Flutter project.
